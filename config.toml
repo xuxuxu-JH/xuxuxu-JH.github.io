@@ -1,11 +1,11 @@
-baseURL = "https://example.com"
+baseURL = "https://xuxuxu-JH.github.io"
 
 # theme
 # 主题
 theme = "LoveIt"
 # themes directory
 # 主题目录
-#themesDir = "../.."
+
 
 # website title
 # 网站标题
@@ -131,7 +131,7 @@ mobileMode = "auto"
 logo = ""
 # title name
 # 标题名称
-name = "LoveIt"
+name = "xuxuxu-JH"
 # you can add extra information before the name (HTML format is supported), such as icons
 # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
 pre = "<i class='far fa-kiss-wink-heart fa-fw' aria-hidden='true'></i>"
